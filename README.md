@@ -27,12 +27,9 @@ A React app that allows users to explore countries using real data from the REST
 
 1. Clone the repository
 2. Install dependencies:
+   npm install
 
 ##. 📸 ScreenShots
-<img width="952" height="478" alt="image" src="https://github.com/user-attachments/assets/1f8bdce9-a7d9-4c2e-a125-3da06ae00d75" />
+<img width="947" height="473" alt="image" src="https://github.com/user-attachments/assets/e5b6734f-37c3-4e6d-bdf2-24f6e8fed700" />
 <img width="944" height="475" alt="image" src="https://github.com/user-attachments/assets/51aaad5f-1e52-4a9d-922b-d7d425c6c785" />
 
-
-   
-
-   npm install
